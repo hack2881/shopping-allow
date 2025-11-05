@@ -161,3 +161,75 @@
 @@||static.walmart.com^
 @@||content.walmart.com^
 @@||cdn.walmart.com^
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.target.com^
+@@||m.target.com^
+@@||api.target.com^
+@@||cdn.target.com^
+@@||static.target.com^
+@@||media.target.com^
+@@||img.target.com^
+@@||content.target.com^
+
+! 🎯 Laat Marketplace, login en media toe:
+@@||www.facebook.com/marketplace^
+@@||m.facebook.com/marketplace^
+@@||static.xx.fbcdn.net^
+@@||scontent.xx.fbcdn.net^
+@@||graph.facebook.com^
+@@||cdn.fbsbx.com^
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.bestbuy.com^
+@@||m.bestbuy.com^
+@@||api.bestbuy.com^
+@@||media.bestbuy.com^
+@@||img.bestbuy.com^
+@@||static.bestbuy.com^
+@@||content.bestbuy.com^
+@@||images.bestbuyresources.com^
+@@||pisces.bbystatic.com^
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.jysk.nl^
+@@||m.jysk.nl^
+@@||api.jysk.nl^
+@@||media.jysk.nl^
+@@||img.jysk.nl^
+@@||static.jysk.nl^
+@@||content.jysk.nl^
+@@||cdn.jysk.com^
+@@||imagebank.jysk.com^
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.kwantum.nl^
+@@||m.kwantum.nl^
+@@||api.kwantum.nl^
+@@||media.kwantum.nl^
+@@||img.kwantum.nl^
+@@||static.kwantum.nl^
+@@||content.kwantum.nl^
+@@||cdn.kwantum.nl^
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.leenbakker.nl^
+@@||m.leenbakker.nl^
+@@||api.leenbakker.nl^
+@@||media.leenbakker.nl^
+@@||img.leenbakker.nl^
+@@||static.leenbakker.nl^
+@@||content.leenbakker.nl^
+@@||cdn.leenbakker.nl^
+@@||image.leenbakker.nl^
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.vidaxl.nl^
+@@||m.vidaxl.nl^
+@@||api.vidaxl.nl^
+@@||media.vidaxl.nl^
+@@||img.vidaxl.nl^
+@@||static.vidaxl.nl^
+@@||content.vidaxl.nl^
+@@||cdn.vidaxl.nl^
+@@||image.vidaxl.nl^
