@@ -103,3 +103,21 @@
 @@||img.action.com^
 @@||static.action.com^
 @@||content.action.com^
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.hema.nl^
+@@||m.hema.nl^
+@@||api.hema.nl^
+@@||media.hema.nl^
+@@||img.hema.nl^
+@@||static.hema.nl^
+@@||content.hema.nl^
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.lidl.nl^
+@@||m.lidl.nl^
+@@||api.lidl.nl^
+@@||media.lidl.nl^
+@@||img.lidl.nl^
+@@||static.lidl.nl^
+@@||content.lidl.nl^
