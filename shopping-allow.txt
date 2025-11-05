@@ -121,3 +121,43 @@
 @@||img.lidl.nl^
 @@||static.lidl.nl^
 @@||content.lidl.nl^
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.wehkamp.nl^
+@@||m.wehkamp.nl^
+@@||api.wehkamp.nl^
+@@||media.wehkamp.nl^
+@@||img.wehkamp.nl^
+@@||static.wehkamp.nl^
+@@||content.wehkamp.nl^
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.wish.com^
+@@||m.wish.com^
+@@||api.wish.com^
+@@||cdn.wish.com^
+@@||media.wish.com^
+@@||img.wish.com^
+@@||static.wish.com^
+@@||content.wish.com^
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.ebay.com^
+@@||m.ebay.com^
+@@||api.ebay.com^
+@@||cdn.ebay.com^
+@@||i.ebayimg.com^
+@@||ir.ebaystatic.com^
+@@||static.ebayinc.com^
+@@||ocsrest.ebay.com^
+@@||srv.ebay.com^
+
+! 🎯 Laat winkel en productmedia toe:
+@@||www.walmart.com^
+@@||m.walmart.com^
+@@||api.walmart.com^
+@@||media.walmart.com^
+@@||img.walmartimages.com^
+@@||static.walmart.com^
+@@||content.walmart.com^
+@@||cdn.walmart.com^
