@@ -97,15 +97,10 @@
 
 ! 🎯 Laat winkel en productmedia toe:
 @@||www.action.com^
-@@||action.com/images^
-@@||action.com/js^
-@@||action.com/css^
-@@||action.com/nl-nl^
+@@||assets.action.com^
+@@||cdn.action.com^
+@@||images.action.com^
 @@||shop.action.com^
-@@||open.action.com^
-@@||gateway.action.com^
-@@||game.action.com^
-@@||apply.action.com^
 @@||m.action.com^
 @@||api.action.com^
 @@||media.action.com^
