@@ -101,7 +101,7 @@
 @@||gateway.action.com^
 @@||game.action.com^
 @@||apply.action.com^
-@@||www.action.com/nl-nl^
+@@||action.com/nl-nl^
 @@||m.action.com^
 @@||api.action.com^
 @@||media.action.com^
