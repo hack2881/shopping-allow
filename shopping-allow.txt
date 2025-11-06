@@ -96,6 +96,17 @@
 @@||content.marktplaats.nl^
 
 ! 🎯 Laat winkel en productmedia toe:
+@@||www.action.com^
+@@||m.action.com^
+@@||api.action.com^
+@@||media.action.com^
+@@||img.action.com^
+@@||static.action.com^
+@@||content.action.com^
+@@||msg-global.m.taobao.com^
+@@||gateway.action.com^
+
+! 🎯 Laat winkel en productmedia toe:
 @@||www.hema.nl^
 @@||m.hema.nl^
 @@||api.hema.nl^
