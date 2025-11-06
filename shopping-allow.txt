@@ -96,13 +96,13 @@
 @@||content.marktplaats.nl^
 
 ! 🎯 Laat winkel en productmedia toe:
-@@||action.com^
+@@||www.action.com^
+@@||action.com/nl-nl^
 @@||shop.action.com^
 @@||open.action.com^
 @@||gateway.action.com^
 @@||game.action.com^
 @@||apply.action.com^
-@@||action.com/nl-nl^
 @@||m.action.com^
 @@||api.action.com^
 @@||media.action.com^
