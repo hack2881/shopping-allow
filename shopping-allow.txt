@@ -96,7 +96,7 @@
 @@||content.marktplaats.nl^
 
 ! 🎯 Laat winkel en productmedia toe:
-@@||www.action.com^
+@@||action.com^
 @@||shop.action.com^
 @@||open.action.com^
 @@||gateway.action.com^
