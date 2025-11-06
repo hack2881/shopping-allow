@@ -97,6 +97,9 @@
 
 ! 🎯 Laat winkel en productmedia toe:
 @@||www.action.com^
+@@||action.com/images^
+@@||action.com/js^
+@@||action.com/css^
 @@||action.com/nl-nl^
 @@||shop.action.com^
 @@||open.action.com^
